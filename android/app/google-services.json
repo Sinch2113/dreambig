@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "190171582142",
+    "project_id": "dreambig-4aead",
+    "storage_bucket": "dreambig-4aead.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190171582142:android:8de21757232fd7c27ed8ef",
+        "android_client_info": {
+          "package_name": "com.example.dreambig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190171582142-qof6gboe2c7rnj54637jr6tnnqp0v75e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dreambig",
+            "certificate_hash": "658e64d33d8bce3d1bfc55feb617e51870c041f0"
+          }
+        },
+        {
+          "client_id": "190171582142-hedkqerqdqfmfri0853ardd4mjn4lotk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDeqAiFhEVGWYlOXmlLaUPDuDCddTWkAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190171582142-hedkqerqdqfmfri0853ardd4mjn4lotk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
